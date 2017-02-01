@@ -38,4 +38,4 @@ f('wehrhaus.unique-identifier.generate')({}, (err, response) => {
 (https://en.wikipedia.org/wiki/Universally_unique_identifier)
 
 ## Author
-Justin Wehrman
+Justin Wehrman (https://github.com/wehrhaus/stdlib-services)

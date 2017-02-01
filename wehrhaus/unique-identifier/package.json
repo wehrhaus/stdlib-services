@@ -1,6 +1,6 @@
 {
   "name": "unique-identifier",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Returns a 128-bit randomly-generated integer for use as a GUID (or UUID).",
   "author": "wehrhaus <jwehrman@wehr.haus>",
   "main": "f/generate/index.js",
