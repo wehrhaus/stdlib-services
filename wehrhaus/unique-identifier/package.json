@@ -1,0 +1,15 @@
+{
+  "name": "unique-identifier",
+  "version": "1.0.0",
+  "description": "Returns a 128-bit randomly-generated integer for use as a GUID (or UUID).",
+  "author": "wehrhaus <jwehrman@wehr.haus>",
+  "main": "f/generate/index.js",
+  "dependencies": {},
+  "private": true,
+  "stdlib": {
+    "name": "wehrhaus/unique-identifier",
+    "defaultFunction": "generate",
+    "timeout": 10000,
+    "publish": true
+  }
+}

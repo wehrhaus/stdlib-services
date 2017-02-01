@@ -1,0 +1,10 @@
+{
+  "name": "generate",
+  "description": "Returns a 128-bit randomly-generated integer for use as a GUID (or UUID).",
+  "http": {
+    "headers": {
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Headers": "X-Requested-With"
+    }
+  }
+}
